@@ -10,7 +10,7 @@ function useFetchProducts() {
       try {
         setIsProductsLoading(true);
 
-        const response = await fetch("http://localhost:3000/products");
+        const response = await fetch(`${import.meta.env.BASE_URL}db.json`);
 
         if (!response.ok) {
           throw new Error();
@@ -18,7 +18,7 @@ function useFetchProducts() {
 
         const json = await response.json();
 
-        setProducts(json);
+        setProducts(json.products);
         setIsProductsLoading(false);
       } catch {
         setIsProductsError(true);
@@ -35,4 +35,5 @@ function useFetchProducts() {
     isProductsError,
   };
 }
+
 export default useFetchProducts;

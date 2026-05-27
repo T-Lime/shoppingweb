@@ -3,7 +3,7 @@
     {
       "category": "가방",
       "id": "32",
-      "image": "http://localhost:3000/images/product_32.webp",
+      "image": "/shoppingweb/images/product_32.webp",
       "name": "[🌸봄맞이]라탄 토트백",
       "price": 59000,
       "description": "라탄 소재로 만든 토트백으로, 봄과 여름 시즌에 제격인 아이템입니다. 내추럴한 무드가 돋보이며, 내부 안감이 덧대어져 소지품을 안정적으로 보관할 수 있습니다. 가벼운 외출이나 피크닉 룩에 감성적인 포인트가 되어줍니다."
@@ -11,7 +11,7 @@
     {
       "category": "악세서리",
       "id": "43",
-      "image": "http://localhost:3000/images/product_43.webp",
+      "image": "/shoppingweb/images/product_43.webp",
       "name": "[🍂가을무드]브라운 레더 벨트",
       "price": 29000,
       "description": "부드러운 브라운 톤의 합성가죽 소재 벨트로, 가을부터 겨울까지 다양한 코디에 활용하기 좋습니다. 심플한 메탈 버클 디자인이 전체적으로 고급스러운 느낌을 더해주며, 바지나 원피스 위에 레이어드하여 허리 라인을 강조할 수 있습니다."
@@ -19,7 +19,7 @@
     {
       "category": "가방",
       "id": "34",
-      "image": "http://localhost:3000/images/product_34.webp",
+      "image": "/shoppingweb/images/product_34.webp",
       "name": "[🔥핫트렌드]클라우드 숄더백",
       "price": 69000,
       "description": "볼륨감 있는 클라우드 형태의 디자인이 독특한 숄더백입니다. 가벼운 무게감과 소프트한 터치감이 특징이며, 간편하게 들기 좋은 사이즈로 데일리 코디에 포인트가 되어줍니다. 내부 자석 클로저로 손쉬운 오픈과 클로징이 가능합니다."
@@ -27,7 +27,7 @@
     {
       "category": "하의",
       "id": "13",
-      "image": "http://localhost:3000/images/product_13.webp",
+      "image": "/shoppingweb/images/product_13.webp",
       "name": "[🎁시즌오프]슬림 일자 슬랙스",
       "price": 69000,
       "description": "깔끔한 일자 핏으로 다리 라인을 정돈해주는 슬림 슬랙스입니다. 스판이 함유된 원단으로 활동성이 우수하며, 오피스룩부터 데일리룩까지 다양하게 매치할 수 있습니다. 구김이 잘 생기지 않아 유지 관리가 편리합니다."
@@ -35,7 +35,7 @@
     {
       "category": "상의",
       "id": "4",
-      "image": "http://localhost:3000/images/product_4.webp",
+      "image": "/shoppingweb/images/product_4.webp",
       "name": "[✨럭셔리라인]카라넥 실크 블라우스",
       "price": 129000,
       "description": "광택이 고급스러운 실크 소재의 블라우스입니다. 카라넥이 주는 단정한 인상과 부드러운 터치감이 돋보이며, 오피스룩은 물론 격식 있는 자리에서도 우아한 분위기를 연출할 수 있습니다."
@@ -43,7 +43,7 @@
     {
       "category": "상의",
       "id": "1",
-      "image": "http://localhost:3000/images/product_1.webp",
+      "image": "/shoppingweb/images/product_1.webp",
       "name": "[🎁시즌오프/단독특가]스탠카라 무스탕",
       "price": 149000,
       "description": "양털 안감과 부드러운 인조가죽 소재가 조화를 이루는 무스탕입니다. 스탠카라 디자인으로 멋스러우며, 오버핏으로 편안한 착용감을 제공합니다. 데일리룩부터 특별한 날까지 활용도가 높은 아이템입니다."
@@ -51,7 +51,7 @@
     {
       "category": "가방",
       "id": "35",
-      "image": "http://localhost:3000/images/product_35.webp",
+      "image": "/shoppingweb/images/product_35.webp",
       "name": "[🎁시즌오프/누적2만🏆]미니 백팩",
       "price": 59000,
       "description": "컴팩트한 사이즈로 귀여운 느낌을 주는 미니 백팩입니다. 스트랩 조절이 가능해 다양한 스타일로 연출할 수 있으며, 앞 포켓이 있어 소지품을 분리 수납하기 편리합니다. 가벼운 여행이나 일상에서 유용하게 활용 가능합니다."
@@ -59,7 +59,7 @@
     {
       "category": "악세서리",
       "id": "44",
-      "image": "http://localhost:3000/images/product_44.webp",
+      "image": "/shoppingweb/images/product_44.webp",
       "name": "[⛄겨울신상]울 베레모",
       "price": 25000,
       "description": "포근한 울 혼방 소재로 제작된 베레모입니다. 모양 유지가 쉬워 다양한 스타일링에 손쉽게 매치할 수 있으며, 머리에 살짝 얹거나 깊게 써서 분위기를 바꿔볼 수 있습니다. 겨울철 포인트 아이템으로 제격입니다."
@@ -67,7 +67,7 @@
     {
       "category": "악세서리",
       "id": "45",
-      "image": "http://localhost:3000/images/product_45.webp",
+      "image": "/shoppingweb/images/product_45.webp",
       "name": "[🎁시즌오프]실크 스카프",
       "price": 34000,
       "description": "부드러운 실크 소재로 목이나 머리에 가볍게 둘러 연출 가능한 스카프입니다. 고급스러운 패턴과 은은한 광택이 포인트로, 심플한 룩에 생기를 더해줍니다. 사계절 내내 활용도가 높은 아이템입니다."
@@ -75,7 +75,7 @@
     {
       "category": "상의",
       "id": "10",
-      "image": "http://localhost:3000/images/product_10.webp",
+      "image": "/shoppingweb/images/product_10.webp",
       "name": "[🎁시즌오프]아노락 후디",
       "price": 69000,
       "description": "스포티한 무드의 아노락 디자인 후디로, 앞면 지퍼 디테일이 특징입니다. 넉넉한 핏과 탄탄한 소재감으로 활동성을 높였으며, 스트릿 패션부터 애슬레저 룩까지 다양하게 활용 가능합니다."
@@ -83,7 +83,7 @@
     {
       "category": "신발",
       "id": "28",
-      "image": "http://localhost:3000/images/product_28.webp",
+      "image": "/shoppingweb/images/product_28.webp",
       "name": "[🎁시즌오프/단독특가]스웨이드 로퍼",
       "price": 79000,
       "description": "따뜻한 무드의 스웨이드 소재로 만들어진 로퍼입니다. 클래식한 디자인에 낮은 굽으로 편안함을 더했으며, 오피스룩이나 캐주얼 룩 어디에도 무난하게 매치 가능합니다. 발을 부드럽게 감싸주는 안감으로 보온성도 갖췄습니다."
@@ -91,7 +91,7 @@
     {
       "category": "하의",
       "id": "17",
-      "image": "http://localhost:3000/images/product_17.webp",
+      "image": "/shoppingweb/images/product_17.webp",
       "name": "[🎁시즌오프]부츠컷 데님팬츠",
       "price": 64000,
       "description": "무릎 아래로 자연스럽게 퍼지는 부츠컷 실루엣이 다리를 길고 슬림하게 만들어주는 데님 팬츠입니다. 중청 워싱으로 빈티지한 멋을 살렸으며, 탄탄한 원단으로 늘어짐 없이 오래 입을 수 있습니다."
@@ -99,7 +99,7 @@
     {
       "category": "상의",
       "id": "3",
-      "image": "http://localhost:3000/images/product_3.webp",
+      "image": "/shoppingweb/images/product_3.webp",
       "name": "[⛄겨울신상/한정수량]후드 니트 풀오버",
       "price": 69000,
       "description": "부드러운 니트 소재로 제작된 후드 풀오버로, 따뜻한 착용감을 선사합니다. 루즈핏 디자인으로 체형 구애 없이 편안하게 입을 수 있으며, 겨울철 데일리 아이템으로 제격입니다. 소매와 밑단의 탄탄한 시보리가 늘어짐을 방지해 오래 착용 가능합니다."
@@ -107,7 +107,7 @@
     {
       "category": "신발",
       "id": "30",
-      "image": "http://localhost:3000/images/product_30.webp",
+      "image": "/shoppingweb/images/product_30.webp",
       "name": "[✨신상]니트 스니커즈",
       "price": 77000,
       "description": "발등 전체가 니트 소재로 구성되어 통풍이 뛰어난 스니커즈입니다. 유연한 소재가 발을 편안하게 감싸주며, 슬림한 디자인으로 발 모양을 예쁘게 잡아줍니다. 가벼운 착화감이 특징이라 장시간 걸어도 무리가 적습니다."
@@ -115,7 +115,7 @@
     {
       "category": "하의",
       "id": "14",
-      "image": "http://localhost:3000/images/product_14.webp",
+      "image": "/shoppingweb/images/product_14.webp",
       "name": "[🔥인기]카고 조거 팬츠",
       "price": 52000,
       "description": "실용적인 포켓 디테일이 돋보이는 카고 스타일의 조거 팬츠입니다. 허리와 발목에 밴딩이 있어 편안함을 제공하며, 스트리트 무드의 룩을 완성하기에 제격인 아이템입니다. 어느 상의와도 손쉽게 코디 가능해 활용도가 높습니다."
@@ -123,7 +123,7 @@
     {
       "category": "악세서리",
       "id": "50",
-      "image": "http://localhost:3000/images/product_50.webp",
+      "image": "/shoppingweb/images/product_50.webp",
       "name": "[🎁시즌오프/한정수량]타임리스 메탈 시계",
       "price": 129000,
       "description": "스테인리스 스틸 케이스와 메탈 밴드로 구성된 클래식 디자인의 손목시계입니다. 미니멀한 다이얼이 세련된 인상을 주며, 방수 기능이 탑재되어 실용성을 높였습니다. 포멀한 자리나 데일리 룩 어느 쪽에도 무리 없이 매치 가능합니다."
@@ -131,7 +131,7 @@
     {
       "category": "가방",
       "id": "38",
-      "image": "http://localhost:3000/images/product_38.webp",
+      "image": "/shoppingweb/images/product_38.webp",
       "name": "[🎁시즌오프]에코파우치 숄더백",
       "price": 49000,
       "description": "내장된 파우치와 함께 구성된 에코 숄더백으로, 친환경 소재를 사용해 가볍고 견고합니다. 파우치를 탈부착하여 다양한 소지품을 깔끔하게 정리 가능하며, 숄더 스트랩 길이 조절로 편안한 착용을 돕습니다."
@@ -139,7 +139,7 @@
     {
       "category": "상의",
       "id": "7",
-      "image": "http://localhost:3000/images/product_7.webp",
+      "image": "/shoppingweb/images/product_7.webp",
       "name": "[🔥핫트렌드]크롭 점퍼",
       "price": 79000,
       "description": "트렌디한 크롭 기장의 점퍼로, 스트리트 룩에 포인트를 줄 수 있는 아이템입니다. 톡톡한 코튼 원단으로 제작되어 시즌에 구애 없이 활용 가능하며, 밑단의 밴딩 처리가 스타일리시함을 더해줍니다."
@@ -147,7 +147,7 @@
     {
       "category": "하의",
       "id": "19",
-      "image": "http://localhost:3000/images/product_19.webp",
+      "image": "/shoppingweb/images/product_19.webp",
       "name": "[🎁시즌오프]버뮤다 숏팬츠",
       "price": 39000,
       "description": "클래식한 버뮤다 스타일의 숏팬츠로, 허벅지 중간 정도 길이로 부담 없이 착용할 수 있습니다. 뒷밴딩 디자인으로 편안한 핏을 제공하며, 티셔츠나 니트 등 다양한 상의와 쉽게 매치가 가능합니다."
@@ -155,7 +155,7 @@
     {
       "category": "신발",
       "id": "23",
-      "image": "http://localhost:3000/images/product_23.webp",
+      "image": "/shoppingweb/images/product_23.webp",
       "name": "[🔥핫트렌드]플랫폼 스니커즈",
       "price": 68000,
       "description": "도톰한 플랫폼 창으로 키 높이 효과와 함께 편안한 착용감을 제공하는 스니커즈입니다. 심플한 디자인으로 다양한 룩에 손쉽게 매치할 수 있으며, 통기성이 좋아 장시간 착용에도 발의 피로도가 적습니다."
@@ -163,7 +163,7 @@
     {
       "category": "신발",
       "id": "21",
-      "image": "http://localhost:3000/images/product_21.webp",
+      "image": "/shoppingweb/images/product_21.webp",
       "name": "[🎁시즌오프/인기]레이스업 워커 부츠",
       "price": 119000,
       "description": "견고한 가죽 소재로 제작된 워커 부츠로, 발목을 안정적으로 잡아주어 활동성이 뛰어납니다. 레이스업 디자인이 시크하고 트렌디하며, 데님이나 레깅스와 매치해 멋스러운 캐주얼룩을 완성할 수 있습니다."
@@ -171,7 +171,7 @@
     {
       "category": "하의",
       "id": "15",
-      "image": "http://localhost:3000/images/product_15.webp",
+      "image": "/shoppingweb/images/product_15.webp",
       "name": "[⛄겨울시즌]기모 레깅스",
       "price": 29000,
       "description": "부드러운 기모 안감으로 보온성을 높인 레깅스입니다. 적당한 두께감과 신축성으로 편안하게 착용할 수 있으며, 운동 시에도 일상에서도 다양한 스타일링에 활용할 수 있습니다. 발목까지 딱 맞는 핏으로 다리가 더욱 슬림해 보입니다."
@@ -179,7 +179,7 @@
     {
       "category": "악세서리",
       "id": "41",
-      "image": "http://localhost:3000/images/product_41.webp",
+      "image": "/shoppingweb/images/product_41.webp",
       "name": "[🎁시즌오프/단독특가]골드 체인 네크리스",
       "price": 39000,
       "description": "고급스러운 골드 톤의 체인 목걸이로, 다양한 룩에 포인트로 매치하기 좋습니다. 과하지 않은 두께감으로 부담스럽지 않으며, 길이 조절이 가능해 취향에 맞게 연출할 수 있습니다. 데일리 악세서리로도 손색없습니다."
@@ -187,7 +187,7 @@
     {
       "category": "신발",
       "id": "29",
-      "image": "http://localhost:3000/images/product_29.webp",
+      "image": "/shoppingweb/images/product_29.webp",
       "name": "[🔥베스트셀러]러닝화 에어쿠션",
       "price": 99000,
       "description": "에어 쿠션 기술로 충격 흡수를 극대화한 러닝화입니다. 통기성이 우수한 메쉬 소재로 발이 편안하며, 가볍고 유연한 밑창이 안정적인 러닝을 돕습니다. 운동뿐만 아니라 일상생활에도 활용하기 좋은 디자인입니다."
@@ -195,7 +195,7 @@
     {
       "category": "가방",
       "id": "36",
-      "image": "http://localhost:3000/images/product_36.webp",
+      "image": "/shoppingweb/images/product_36.webp",
       "name": "[✨럭셔리라인]크로커 패턴 토트백",
       "price": 149000,
       "description": "고급스러운 크로커다일 패턴을 적용한 인조가죽 토트백입니다. 세련된 실루엣과 광택감으로 오피스룩이나 모임 등 격식 있는 자리에서 돋보이는 아이템입니다. 내부 수납공간이 넉넉하고, 탈부착 가능한 긴 스트랩이 있어 숄더백으로도 연출 가능합니다."
@@ -203,7 +203,7 @@
     {
       "category": "악세서리",
       "id": "42",
-      "image": "http://localhost:3000/images/product_42.webp",
+      "image": "/shoppingweb/images/product_42.webp",
       "name": "[✨럭셔리라인]진주 드롭 이어링",
       "price": 59000,
       "description": "빛나는 인조 진주가 달린 드롭 이어링으로, 여성스러운 분위기를 한층 살려주는 아이템입니다. 귓불에서 자연스럽게 흔들리는 디자인이 우아함을 더해주며, 포멀한 자리나 파티 룩에 적극 추천합니다."
@@ -211,7 +211,7 @@
     {
       "category": "악세서리",
       "id": "46",
-      "image": "http://localhost:3000/images/product_46.webp",
+      "image": "/shoppingweb/images/product_46.webp",
       "name": "[✨신상]메탈릭 헤어핀 세트",
       "price": 19000,
       "description": "심플한 메탈릭 광택이 돋보이는 헤어핀 세트로, 여러 개를 함께 꽂아도 예쁘고 단독으로 포인트를 줘도 좋습니다. 탄탄한 그립감으로 흘러내리지 않아 편안하게 착용 가능하며, 다양한 헤어스타일을 연출할 수 있습니다."
@@ -219,7 +219,7 @@
     {
       "category": "하의",
       "id": "16",
-      "image": "http://localhost:3000/images/product_16.webp",
+      "image": "/shoppingweb/images/product_16.webp",
       "name": "[🎁시즌오프/한정수량]롱 니트 스커트",
       "price": 49000,
       "description": "부드러운 니트 소재로 제작된 롱 스커트로, 따뜻함과 우아함을 동시에 느낄 수 있습니다. 신축성이 좋아 활동 시 편안하며, 밑단으로 갈수록 살짝 퍼지는 실루엣이 여성스러운 라인을 강조해 줍니다."
@@ -227,14 +227,14 @@
     {
       "category": "악세서리",
       "id": "49",
-      "image": "http://localhost:3000/images/product_49.webp",
+      "image": "/shoppingweb/images/product_49.webp",
       "name": "[🍂가을감성]울 머플러",
       "price": 35000,
       "description": "가볍고 따뜻한 울 소재의 머플러로, 부드러운 촉감이 목을 포근하게 감싸줍니다. 단색 디자인으로 다양한 아우터와 쉽게 매치할 수 있으며, 적당한 길이로 여러 가지 스타일 연출이 가능합니다."
     },
     {
       "category": "신발",
-      "image": "http://localhost:3000/images/product_27.webp",
+      "image": "/shoppingweb/images/product_27.webp",
       "id": "27",
       "name": "[🎁시즌오프]슬라이드 샌들",
       "price": 29000,
@@ -243,7 +243,7 @@
     {
       "category": "악세서리",
       "id": "47",
-      "image": "http://localhost:3000/images/product_47.webp",
+      "image": "/shoppingweb/images/product_47.webp",
       "name": "[🎁시즌오프]오버사이즈 썬글라스",
       "price": 49000,
       "description": "얼굴 윤곽을 부드럽게 잡아주는 오버사이즈 디자인의 썬글라스입니다. UV 차단 기능이 뛰어나 눈부심을 효과적으로 줄여주며, 패션 아이템으로도 손색없습니다. 캐주얼룩부터 리조트룩까지 다양한 스타일에 잘 어울립니다."
@@ -251,7 +251,7 @@
     {
       "category": "신발",
       "id": "24",
-      "image": "http://localhost:3000/images/product_24.webp",
+      "image": "/shoppingweb/images/product_24.webp",
       "name": "[✨파티룩필수]글리터 힐",
       "price": 99000,
       "description": "눈길을 사로잡는 글리터 디테일이 돋보이는 하이힐입니다. 특별한 날, 파티룩에 포인트로 활용하기 좋으며, 8cm 굽으로 다리 라인을 더욱 아름답게 살려줍니다. 앞코 부분의 부드러운 안감이 장시간 착용에도 편안함을 제공합니다."
@@ -259,7 +259,7 @@
     {
       "category": "신발",
       "id": "22",
-      "image": "http://localhost:3000/images/product_22.webp",
+      "image": "/shoppingweb/images/product_22.webp",
       "name": "[⛄겨울필수]방한 부츠",
       "price": 89000,
       "description": "털 안감이 내장된 방한 부츠로 겨울철에도 발을 따뜻하게 보호해 줍니다. 미끄럼 방지 아웃솔을 적용해 눈길이나 빙판길에서도 안정적인 걸음을 유지할 수 있습니다. 다리 라인을 고려한 디자인으로 과하지 않게 슬림한 실루엣을 연출합니다."
@@ -267,7 +267,7 @@
     {
       "category": "하의",
       "id": "18",
-      "image": "http://localhost:3000/images/product_18.webp",
+      "image": "/shoppingweb/images/product_18.webp",
       "name": "[🍂가을한정]체크 미니 스커트",
       "price": 42000,
       "description": "가을 무드가 느껴지는 체크 패턴의 미니 스커트입니다. 살짝 A라인으로 떨어져 다리가 더욱 날씬해 보이며, 적당한 두께감으로 간절기부터 초겨울까지 활용 가능합니다. 허리 뒷부분에 지퍼가 있어 간편하게 착용할 수 있습니다."
@@ -275,7 +275,7 @@
     {
       "category": "하의",
       "id": "12",
-      "image": "http://localhost:3000/images/product_12.webp",
+      "image": "/shoppingweb/images/product_12.webp",
       "name": "[🌸봄맞이]플리츠 미디 스커트",
       "price": 69000,
       "description": "부드러운 주름 디테일이 여성스러운 분위기를 더하는 플리츠 미디 스커트입니다. 허리 밴딩으로 편안하게 착용 가능하며, 움직일 때마다 자연스럽게 퍼지는 실루엣이 매력적입니다. 봄부터 가을까지 활용하기 좋은 두께감입니다."
@@ -283,7 +283,7 @@
     {
       "category": "상의",
       "id": "6",
-      "image": "http://localhost:3000/images/product_6.webp",
+      "image": "/shoppingweb/images/product_6.webp",
       "name": "[🎁시즌오프/누적2만🏆]캐시미어 브이넥 니트",
       "price": 99000,
       "description": "캐시미어 혼방 원사로 부드러운 촉감이 돋보이는 브이넥 니트입니다. 몸에 자연스럽게 떨어지는 실루엣과 포근한 착용감으로 겨울철 데일리룩으로 손색이 없습니다. 깊지 않은 브이넥 라인으로 이너와 함께 매치하기에도 좋습니다."
@@ -291,7 +291,7 @@
     {
       "category": "가방",
       "id": "39",
-      "image": "http://localhost:3000/images/product_39.webp",
+      "image": "/shoppingweb/images/product_39.webp",
       "name": "[🎁시즌오프]아코디언 크로스백",
       "price": 69000,
       "description": "사이드가 아코디언 형태로 디자인되어 수납공간이 넉넉한 크로스백입니다. 간단한 소지품부터 작은 노트나 태블릿까지 수납 가능해 실용적입니다. 페미닌하면서도 깔끔한 무드로 다양한 룩에 자연스럽게 어우러집니다."
@@ -299,7 +299,7 @@
     {
       "category": "가방",
       "id": "33",
-      "image": "http://localhost:3000/images/product_33.webp",
+      "image": "/shoppingweb/images/product_33.webp",
       "name": "[⛄겨울시즌]퍼 크로스백",
       "price": 79000,
       "description": "보송보송한 퍼 디테일이 따뜻한 분위기를 전해주는 크로스백입니다. 내부 공간이 적당하여 핸드폰, 지갑 등 필수 소지품을 수납하기 좋습니다. 탈부착 가능한 스트랩으로 숄더백이나 클러치 형태로도 활용 가능합니다."
@@ -307,7 +307,7 @@
     {
       "category": "하의",
       "id": "20",
-      "image": "http://localhost:3000/images/product_20.webp",
+      "image": "/shoppingweb/images/product_20.webp",
       "name": "[🎁시즌오프]하이웨스트 와이드 슬랙스",
       "price": 79000,
       "description": "하이웨스트 스타일로 다리가 길어 보이는 와이드 슬랙스입니다. 폴리에스터 혼방 소재가 주름과 보풀에 강해 오랫동안 깔끔한 상태를 유지하며, 다양한 상의와 매치하기 좋습니다. 허리 부분에 히든 밴딩이 내장되어 편안하게 착용 가능합니다."
@@ -315,7 +315,7 @@
     {
       "category": "신발",
       "id": "25",
-      "image": "http://localhost:3000/images/product_25.webp",
+      "image": "/shoppingweb/images/product_25.webp",
       "name": "[🎁시즌오프/가성비]로우탑 캔버스 스니커즈",
       "price": 39000,
       "description": "가볍고 유연한 캔버스 소재로 일상에서 편하게 신기 좋은 로우탑 스니커즈입니다. 심플한 디자인에 앞코 러버 디테일이 포인트가 되어주며, 다양한 색상으로 선택의 폭이 넓습니다. 탄탄한 밑창이 오래 신어도 변형을 최소화합니다."
@@ -323,7 +323,7 @@
     {
       "category": "상의",
       "id": "9",
-      "image": "http://localhost:3000/images/product_9.webp",
+      "image": "/shoppingweb/images/product_9.webp",
       "name": "[🎁시즌오프/누적3만🏆]스트라이프 오버핏 셔츠",
       "price": 54000,
       "description": "가볍고 부드러운 코튼 소재로 제작된 스트라이프 패턴의 셔츠입니다. 오버핏 실루엣이 캐주얼하면서도 세련된 분위기를 연출해 주며, 다양한 하의와 매칭하여 다채로운 스타일링이 가능합니다."
@@ -331,7 +331,7 @@
     {
       "category": "신발",
       "id": "26",
-      "image": "http://localhost:3000/images/product_26.webp",
+      "image": "/shoppingweb/images/product_26.webp",
       "name": "[🍂가을신상]첼시 앵클부츠",
       "price": 109000,
       "description": "신축성 있는 사이드 밴드가 발목을 편안하게 감싸주는 첼시 부츠입니다. 가을부터 겨울까지 착용하기 좋은 톡톡한 소재로 제작되었으며, 슬랙스나 데님 어디에도 잘 어울립니다. 베이직한 디자인으로 오랜 기간 질리지 않고 신을 수 있습니다."
@@ -339,7 +339,7 @@
     {
       "category": "상의",
       "id": "5",
-      "image": "http://localhost:3000/images/product_5.webp",
+      "image": "/shoppingweb/images/product_5.webp",
       "name": "[🌸봄맞이/베스트셀러]플라워 패턴 셔츠",
       "price": 59000,
       "description": "가볍고 시원한 코튼 소재로 제작된 플라워 패턴 셔츠입니다. 화사한 색감이 봄 분위기를 살려주며, 단품으로 입거나 레이어드하여 다양한 스타일링이 가능합니다. 박시한 실루엣으로 누구나 편안하게 착용할 수 있습니다."
@@ -347,7 +347,7 @@
     {
       "category": "가방",
       "id": "40",
-      "image": "http://localhost:3000/images/product_40.webp",
+      "image": "/shoppingweb/images/product_40.webp",
       "name": "[🔥베스트셀러]사첼백",
       "price": 99000,
       "description": "고전적인 사첼백 디자인에 현대적인 디테일을 더해 실용성과 스타일을 동시에 잡았습니다. 내부가 여러 구획으로 나누어져 있어 정리정돈이 용이하며, 탈부착 가능한 스트랩으로 크로스와 토트 두 가지로 활용 가능합니다."
@@ -355,7 +355,7 @@
     {
       "category": "상의",
       "id": "8",
-      "image": "http://localhost:3000/images/product_8.webp",
+      "image": "/shoppingweb/images/product_8.webp",
       "name": "[🍂가을신상]오버핏 체크 자켓",
       "price": 109000,
       "description": "클래식한 체크 패턴이 돋보이는 오버핏 자켓입니다. 폴리와 레이온 혼방 소재로 구김이 적고 활동성이 우수하며, 어떤 이너와도 손쉽게 스타일링할 수 있습니다. 가을철 필수 아우터로 추천드립니다."
@@ -363,7 +363,7 @@
     {
       "category": "상의",
       "id": "2",
-      "image": "http://localhost:3000/images/product_2.webp",
+      "image": "/shoppingweb/images/product_2.webp",
       "name": "[🎁시즌오프/누적5만🏆]울 블렌드 오버핏 코트",
       "price": 179000,
       "description": "고급스러운 울 블렌드 소재로 제작된 오버핏 코트입니다. 보온성과 함께 깔끔한 실루엣을 자랑해, 포멀한 룩부터 캐주얼 스타일까지 다양하게 소화 가능합니다. 내부 안감 처리가 잘 되어있어 한겨울에도 따뜻하게 착용할 수 있습니다."
@@ -371,7 +371,7 @@
     {
       "category": "가방",
       "id": "31",
-      "image": "http://localhost:3000/images/product_31.webp",
+      "image": "/shoppingweb/images/product_31.webp",
       "name": "[🎁시즌오프]레더 숄더백",
       "price": 129000,
       "description": "고급스러운 광택의 합성가죽 소재로 제작된 숄더백입니다. 내부 포켓이 다양해 물건을 깔끔하게 수납할 수 있으며, 적당한 사이즈로 데일리백으로도 손색이 없습니다. 어깨끈 길이 조절이 가능하여 편하게 연출할 수 있습니다."
@@ -379,7 +379,7 @@
     {
       "category": "하의",
       "id": "11",
-      "image": "http://localhost:3000/images/product_11.webp",
+      "image": "/shoppingweb/images/product_11.webp",
       "name": "[✨신상/단독할인]와이드 데님 팬츠",
       "price": 55000,
       "description": "탄탄한 데님 원단으로 제작된 와이드 핏 청바지입니다. 하이웨스트 디자인이 다리를 길어 보이게 해주고, 다양한 상의와 매치하여 캐주얼한 스타일을 연출할 수 있습니다. 무릎 늘어짐이 적어 오래 입어도 깔끔한 실루엣을 유지합니다."
@@ -387,7 +387,7 @@
     {
       "category": "가방",
       "id": "37",
-      "image": "http://localhost:3000/images/product_37.webp",
+      "image": "/shoppingweb/images/product_37.webp",
       "name": "[🍂가을템]버킷백",
       "price": 69000,
       "description": "모던하고 심플한 디자인의 버킷백으로, 적당한 깊이와 입구 스트링을 통해 소지품을 안전하게 보관할 수 있습니다. 어느 착장에도 부담 없이 매치할 수 있으며, 내구성이 우수한 합성피혁을 사용해 오랫동안 사용 가능합니다."
@@ -395,7 +395,7 @@
     {
       "category": "악세서리",
       "id": "48",
-      "image": "http://localhost:3000/images/product_48.webp",
+      "image": "/shoppingweb/images/product_48.webp",
       "name": "[🔥인기]미니멀 뱅글 세트",
       "price": 29000,
       "description": "심플한 디자인의 얇은 뱅글 3종 세트로, 레이어링 하거나 단독으로 착용해 포인트를 줄 수 있습니다. 스테인리스 소재로 알레르기 반응이 적고, 색 변색이 거의 없어 오랫동안 사용 가능합니다."

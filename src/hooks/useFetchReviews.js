@@ -10,9 +10,7 @@ function useFetchReviews(productId) {
       try {
         setIsReviewsLoading(true);
 
-        const response = await fetch(
-          `http://localhost:3000/reviews?productId=${productId}`,
-        );
+        const response = await fetch(`${import.meta.env.BASE_URL}db.json`);
 
         if (!response.ok) {
           throw new Error();
@@ -20,7 +18,11 @@ function useFetchReviews(productId) {
 
         const json = await response.json();
 
-        setReviews(json);
+        const filteredReviews = json.reviews.filter(
+          (review) => review.productId === Number(productId),
+        );
+
+        setReviews(filteredReviews);
         setIsReviewsLoading(false);
       } catch {
         setIsReviewsError(true);

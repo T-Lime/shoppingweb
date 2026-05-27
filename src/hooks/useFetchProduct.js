@@ -10,11 +10,7 @@ function useFetchProduct(productId) {
       try {
         setIsProductLoading(true);
 
-        //`http://localhost:3000/products/${productId}?_embed=reviews`,
-
-        const response = await fetch(
-          `http://localhost:3000/products/${productId}`,
-        );
+        const response = await fetch(`${import.meta.env.BASE_URL}db.json`);
 
         if (!response.ok) {
           throw new Error("");
@@ -22,9 +18,11 @@ function useFetchProduct(productId) {
 
         const json = await response.json();
 
-        console.log(json);
+        const foundProduct = json.products.find(
+          (product) => product.id === Number(productId),
+        );
 
-        setProduct(json);
+        setProduct(foundProduct);
         setIsProductLoading(false);
       } catch {
         setIsProductError(true);
