@@ -13,13 +13,13 @@ function useFetchProduct(productId) {
         const response = await fetch(`${import.meta.env.BASE_URL}db.json`);
 
         if (!response.ok) {
-          throw new Error("");
+          throw new Error();
         }
 
         const json = await response.json();
 
         const foundProduct = json.products.find(
-          (product) => product.id === Number(productId),
+          (product) => product.id === productId,
         );
 
         setProduct(foundProduct);

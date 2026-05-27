@@ -19,7 +19,7 @@ function useFetchReviews(productId) {
         const json = await response.json();
 
         const filteredReviews = json.reviews.filter(
-          (review) => review.productId === Number(productId),
+          (review) => review.productId === productId,
         );
 
         setReviews(filteredReviews);
